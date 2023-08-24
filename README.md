@@ -39,7 +39,7 @@ Visit the [react-image-magnifiers demo site](https://adamrisberg.github.io/react
 ## Installation
 
 ```sh
-npm install --save react-image-magnifiers
+npm install --save react-image-magnifiers-v2
 ```
 
 ## Basic Usage
@@ -278,3 +278,7 @@ cd react-image-magnifiers
 npm install
 npm start
 ```
+
+## TODO
+
+- [ ] Add unit test

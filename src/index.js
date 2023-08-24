@@ -1,7 +1,7 @@
 import {
   MOUSE_ACTIVATION as MOUSE,
   TOUCH_ACTIVATION as TOUCH
-} from "react-input-position";
+} from "react-input-position-v2";
 
 export const MOUSE_ACTIVATION = {
   CLICK: MOUSE.CLICK,
